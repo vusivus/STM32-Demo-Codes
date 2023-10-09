@@ -1,0 +1,7 @@
+../Demos/App/Src/app.c:19:13:Read_Button	8	static
+../Demos/App/Src/app.c:29:13:LED_SetState	16	static
+../Demos/App/Src/app.c:33:13:ADC_SelectChannel	32	static
+../Demos/App/Src/app.c:44:14:Read_Voltage	24	static
+../Demos/App/Src/app.c:66:6:App_Initialize	8	static
+../Demos/App/Src/app.c:70:6:App_Update	8	static
+../Demos/App/Src/app.c:81:6:StartMyTask	16	static

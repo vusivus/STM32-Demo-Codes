@@ -1,0 +1,5 @@
+../Demos/Drivers/Src/drv_timer.c:15:6:Timer_Initialize	1
+../Demos/Drivers/Src/drv_timer.c:20:6:Timer_ResetUs	1
+../Demos/Drivers/Src/drv_timer.c:24:10:Timer_GetUs	1
+../Demos/Drivers/Src/drv_timer.c:28:6:DelayUs	2
+../Demos/Drivers/Src/drv_timer.c:34:6:DelayMs	2

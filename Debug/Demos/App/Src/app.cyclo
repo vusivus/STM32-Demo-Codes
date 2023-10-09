@@ -1,0 +1,7 @@
+../Demos/App/Src/app.c:19:13:Read_Button	3
+../Demos/App/Src/app.c:29:13:LED_SetState	1
+../Demos/App/Src/app.c:33:13:ADC_SelectChannel	2
+../Demos/App/Src/app.c:44:14:Read_Voltage	3
+../Demos/App/Src/app.c:66:6:App_Initialize	1
+../Demos/App/Src/app.c:70:6:App_Update	2
+../Demos/App/Src/app.c:81:6:StartMyTask	1
